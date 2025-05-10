@@ -1,7 +1,7 @@
 # See https://github.com/CaiJimmy/hugo-theme-stack/blob/master/exampleSite/config.yaml
 # for more configuration options
 
-baseURL: "https://cssz.ch/"
+baseURL: "https://matezzzz.github.io/cssz-web-temp/"
 title: "Czech and Slovak Students in Zurich"
 languageCode: 'en-gb'
 timeZone: "Europe/Zurich"
