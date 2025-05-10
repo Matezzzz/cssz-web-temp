@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Czech and Slovak Students in Zurich//Events//EN
-URL:webcal://matezzzz.github.io/cssz-web-temp/events/meetndine-autumn23.ics
+URL:webcal://matezzzz.github.io/temporary-cssz/events/meetndine-autumn23.ics
 NAME:CSSZ Events
 X-WR-CALNAME:CSSZ Events
 X-WR-CALDESC:
@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Meet'n'Dine: Plněné knedlíky uzeným se zelím
-DESCRIPTION:<strong>Event details:</strong> https://matezzzz.github.io/cssz-web-temp/events/meetndine-autumn23/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/f2VQB4x8ZwvFjTDg6" target="_blank" rel="noopener">Google form</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. Signup available till the 17th of October. Later only upon request per email.\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students! Come join us and bring a friend! We&rsquo;ll be cooking a traditional Czech dish: Plněné knedlíky uzeným se zelím (Stuffed dumplings with smoked cabbage). Please sign up in the google form provided above and pay the registration fee so that your sign up is definitive. The registration fee is 12 CHF for CSSZ members and 15 CHF for non-members.
+DESCRIPTION:<strong>Event details:</strong> https://matezzzz.github.io/temporary-cssz/events/meetndine-autumn23/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/f2VQB4x8ZwvFjTDg6" target="_blank" rel="noopener">Google form</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. Signup available till the 17th of October. Later only upon request per email.\n\nCSSZ and Meet&rsquo;n&rsquo;Dine invite you to a casual dinner with fellow students! Come join us and bring a friend! We&rsquo;ll be cooking a traditional Czech dish: Plněné knedlíky uzeným se zelím (Stuffed dumplings with smoked cabbage). Please sign up in the google form provided above and pay the registration fee so that your sign up is definitive. The registration fee is 12 CHF for CSSZ members and 15 CHF for non-members.
 UID:20231020T183000-meetndine-autumn23@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -39,7 +39,7 @@ DTSTAMP:20231020T000000
 DTSTART:20231020T183000
 DTEND:20231020T220000
 LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
-URL:https://matezzzz.github.io/cssz-web-temp/events/meetndine-autumn23/
+URL:https://matezzzz.github.io/temporary-cssz/events/meetndine-autumn23/
 END:VEVENT
 
 END:VCALENDAR
