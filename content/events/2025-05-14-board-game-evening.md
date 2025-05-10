@@ -46,6 +46,6 @@ If you own a game that you'd love to play, be sure to bring it; there will defin
 
 ## **Registration and price**
 
-You can register using the link above, the deadline is midnight before the event, **May 13, 23.59**. The entrance is free, bringing any food / drinks is welcome!
+You can register using the link above. The entrance is free, bringing any food / drinks is welcome!
 
 We look forward to sharing a wonderful evening with you! 
