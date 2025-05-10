@@ -26,7 +26,7 @@ Join us for a fun and exciting evening of card and board games on **Wednesday, M
 
 ## **The Games**
 
-The following games will be available (we will update the list as more people choose to bring their own!):
+The following games will be available (we will update the list as more people choose to bring their own):
 * Dobble
 * 6 takes! (6 nimmt!)
 * Dice
@@ -35,7 +35,7 @@ The following games will be available (we will update the list as more people ch
 * Werewolves
 * Secretly Hitler
 * Blood on the Clocktower
-* Poker/Mariáš cards :D
+* Poker/Mariáš cards
 
 No prior experience needed - we will be sure to explain the rules before each game!
 
@@ -46,6 +46,6 @@ If you own a game that you'd love to play, be sure to bring it; there will defin
 
 ## **Registration and price**
 
-You can register using the link above. The entrance is free, bringing any food / drinks is welcome!
+You can register using the link above. The entrance is free, bringing any food / drinks is welcome.
 
 We look forward to sharing a wonderful evening with you! 
